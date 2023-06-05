@@ -1,0 +1,101 @@
+,Student ID,Gender,Age,First-Gen,GPA,Math Grade,English Grade,Major,Advising History,Co-curriculars,Financial Aid,Tutoring Hours,Attendance,Survey Score,Advised Course,New_GPA,Physics Grade,Biology Grade,History Grade,CS Grade
+0,1,Female,20,No,3.2,B,C,Psychology,Frequent,Debate Club,Yes,4,High,8.5,PSY101,3.2,C+,B+,A-,A
+1,2,Male,22,Yes,3.8,A,B,Computer Science,Occasional,Robotics Club,No,2,Moderate,7.2,CS210,3.3,B,B+,C+,B+
+2,3,Male,19,Yes,2.9,C,D,Biology,Regular,Soccer Team,Yes,1,Low,6.1,BIO102,3.9,A-,B+,C+,B
+3,4,Female,21,Yes,3.5,B+,A-,Business,Infrequent,Student Council,Yes,3,High,8.0,BUS201,3.9,C+,B,A-,B+
+4,5,Female,18,No,3.9,A-,A,English,Regular,Drama Club,No,0,High,9.2,ENG202,3.9,A,B,B,B
+5,6,Male,19,Yes,3.6,B,B+,Physics,Regular,Chess Club,Yes,2,Moderate,7.8,PHY103,2.9,B+,A-,B+,B
+6,7,Female,20,Yes,3.1,C+,B,Sociology,Infrequent,Volunteer Program,No,1,Moderate,6.5,SOC201,3.1,A-,B+,A-,B
+7,8,Male,22,No,3.7,B+,A-,History,Regular,Model UN Club,Yes,2,High,8.3,HIS301,3.6,A,B+,B,A
+8,9,Female,19,No,3.4,B,B,Chemistry,Occasional,Music Club,Yes,1,Low,7.0,CHEM202,3.2,A-,A-,B,A-
+9,10,Male,20,Yes,3.9,A,A,Computer Science,Regular,Coding Club,No,3,High,9.5,CS310,3.9,A-,B,A,B
+10,11,Female,21,No,3.3,B,B+,Economics,Regular,Debate Club,Yes,2,High,7.9,ECO202,3.6,B,B,B,A
+11,12,Male,20,Yes,3.6,B+,A-,Political Science,Occasional,Model UN Club,Yes,3,High,8.2,POLS301,3.4,B+,B+,B,B+
+12,13,Female,19,No,3.8,A,A-,Mathematics,Regular,Math Club,No,1,High,9.0,MATH301,3.2,B+,A,B,B
+13,14,Male,22,Yes,3.1,C+,C,English,Infrequent,Literary Magazine,Yes,1,Moderate,6.8,ENG101,3.4,B+,B,B+,C
+14,15,Female,20,Yes,3.5,B,B,Biology,Regular,Research Assistant,No,2,High,8.1,BIO201,3.3,C+,B,B,B
+15,16,Male,19,No,3.9,A-,A,Computer Science,Frequent,Coding Club,Yes,4,High,9.5,CS410,3.2,C+,A,B+,B+
+16,17,Female,21,Yes,3.2,B,C,Psychology,Infrequent,Psychology Club,Yes,2,Moderate,7.4,PSY201,3.6,B+,A,B,A
+17,18,Male,20,No,3.7,B+,A-,Business,Regular,Finance Club,Yes,3,High,8.6,BUS301,3.7,B,B+,B,B
+18,19,Female,19,No,3.6,B+,B,Chemistry,Regular,Chemistry Club,No,1,High,7.9,CHEM301,3.8,B+,C+,B,B
+19,20,Male,22,Yes,3.4,B,B,Physics,Regular,Physics Club,Yes,2,High,8.0,PHY201,3.3,B,A,B,A-
+20,21,Female,20,Yes,3.8,A-,A,Computer Science,Regular,Robotics Club,No,2,High,8.4,CS410,3.7,B,C+,C,B+
+21,22,Male,19,Yes,3.5,B+,B,Psychology,Infrequent,Psychology Club,Yes,1,Moderate,7.6,PSY201,3.7,B+,B+,C+,B
+22,23,Female,21,No,3.2,B,B+,Sociology,Frequent,Social Justice Club,Yes,3,High,7.8,SOC301,3.5,B,B,A,C+
+23,24,Male,20,No,3.7,B+,A-,Business,Regular,Finance Club,Yes,2,High,8.2,BUS301,3.2,A-,B,B,B+
+24,25,Female,19,Yes,3.9,A,A-,Biology,Regular,Biology Club,No,1,High,9.0,BIO301,3.9,A-,B+,B+,A
+25,26,Male,21,Yes,3.3,B,C+,History,Infrequent,History Club,Yes,1,Moderate,7.2,HIS201,3.9,B+,B+,B+,B
+26,27,Female,20,No,3.6,B+,B,English,Regular,Literary Magazine,No,2,High,8.1,ENG301,3.5,B,B+,A,B+
+27,28,Male,19,No,3.4,B,B+,Chemistry,Regular,Chemistry Club,No,1,High,7.7,CHEM301,3.7,B+,B,B,B+
+28,29,Female,21,Yes,3.1,C+,B-,Economics,Frequent,Debate Club,Yes,3,Moderate,7.0,ECO301,3.7,C+,B+,A,B
+29,30,Male,20,Yes,3.8,A-,A,Computer Science,Regular,Coding Club,No,2,High,8.5,CS410,3.3,A-,B,B,C+
+30,31,Female,19,No,3.7,B+,A-,Physics,Regular,Physics Club,Yes,2,High,8.3,PHY301,3.9,B,B,B,B+
+31,32,Male,20,Yes,3.4,B,B,Computer Science,Regular,Coding Club,No,1,Moderate,7.5,CS310,3.9,A,A,B,B
+32,33,Female,21,Yes,3.9,A,A-,Biology,Regular,Biology Club,Yes,3,High,9.2,BIO301,3.5,B,B,B,A-
+33,34,Male,19,No,3.2,B,B+,Psychology,Infrequent,Psychology Club,No,1,Moderate,7.2,PSY201,3.6,B+,A-,B,B+
+34,35,Female,20,No,3.6,B+,B,Sociology,Regular,Sociology Club,Yes,2,High,8.0,SOC301,3.6,B+,A-,A,B+
+35,36,Male,22,Yes,3.8,A-,A,Mathematics,Regular,Math Club,No,2,High,8.6,MATH401,3.6,B+,B,B+,A
+36,37,Female,19,Yes,3.3,B,C+,English,Infrequent,Literary Magazine,Yes,1,Moderate,7.1,ENG201,3.6,B,C+,B,B+
+37,38,Male,21,No,3.7,B+,A-,Business,Regular,Finance Club,Yes,3,High,8.3,BUS301,3.9,B+,B,B+,B
+38,39,Female,20,No,3.5,B,B+,Chemistry,Regular,Chemistry Club,No,1,High,7.8,CHEM301,3.6,B,B,B+,B+
+39,40,Male,19,Yes,3.9,A,A-,Economics,Regular,Debate Club,Yes,3,High,8.9,ECO401,3.9,B+,B,A-,A-
+40,41,Female,21,Yes,3.6,B+,B,Computer Science,Frequent,Coding Club,No,2,High,8.5,CS410,3.7,A,B+,B+,A
+41,42,Male,20,No,3.9,A,A-,Economics,Regular,Economics Club,Yes,3,High,9.0,ECO401,3.6,B,B+,B,B
+42,43,Female,19,No,3.8,A,A-,Biology,Regular,Biology Club,No,1,High,8.2,BIO401,3.9,B+,C,A,B+
+43,44,Male,22,Yes,3.2,B,B+,Psychology,Infrequent,Psychology Club,No,1,Moderate,7.4,PSY201,3.8,C,A,B,B
+44,45,Female,20,No,3.6,B+,B,Sociology,Regular,Sociology Club,Yes,2,High,8.0,SOC401,3.2,A,A-,B+,B
+45,46,Male,19,Yes,3.9,A,A-,Mathematics,Regular,Math Club,No,2,High,9.2,MATH401,3.8,B,B+,B,B+
+46,47,Female,21,Yes,3.5,B,B+,English,Regular,Literary Magazine,Yes,1,Moderate,7.8,ENG401,3.7,A-,A,A,B
+47,48,Male,20,No,3.7,B+,A-,Business,Regular,Finance Club,Yes,3,High,8.5,BUS401,3.5,A-,B,B+,B+
+48,49,Female,19,No,3.6,B+,B,Chemistry,Regular,Chemistry Club,No,1,High,7.9,CHEM401,3.8,B,B+,A,B
+49,50,Male,22,Yes,3.4,B,C+,Physics,Regular,Physics Club,Yes,2,High,8.1,PHY401,3.1,B,A-,B+,B
+50,51,Female,20,Yes,3.8,A-,A,Computer Science,Regular,Coding Club,No,2,High,8.4,CS410,3.7,B+,B,B,A
+51,52,Male,19,Yes,3.5,B+,B,Psychology,Infrequent,Psychology Club,Yes,1,Moderate,7.6,PSY201,3.8,B,A,B,B+
+52,53,Female,21,No,3.2,B,B+,Sociology,Frequent,Sociology Club,Yes,3,High,7.8,SOC401,3.1,B+,B,A,B+
+53,54,Male,20,No,3.7,B+,A-,Business,Regular,Finance Club,Yes,2,High,8.2,BUS401,3.3,B,B+,A-,B
+54,55,Female,19,Yes,3.9,A,A-,Biology,Regular,Biology Club,No,1,High,9.0,BIO401,3.3,B,B,B,B
+55,56,Male,21,Yes,3.3,B,C+,History,Infrequent,History Club,Yes,1,Moderate,7.2,HIS201,3.1,A,B+,B,B
+56,57,Female,20,No,3.6,B+,B,English,Regular,Literary Magazine,No,2,High,8.1,ENG401,3.8,A,B+,A-,B+
+57,58,Male,19,No,3.4,B,B+,Chemistry,Regular,Chemistry Club,No,1,High,7.7,CHEM401,3.3,B+,B+,B+,A
+58,59,Female,21,Yes,3.1,C+,B-,Economics,Frequent,Debate Club,Yes,3,Moderate,7.0,ECO401,3.8,A-,A,C+,A
+59,60,Male,20,Yes,3.8,A-,A,Mathematics,Regular,Math Club,No,2,High,8.5,MATH401,3.2,B,B,B,B
+60,61,Female,19,No,3.7,B+,A-,Physics,Regular,Physics Club,Yes,2,High,8.3,PHY401,3.9,B,B,B+,B
+61,62,Male,20,Yes,3.4,B,B,Computer Science,Regular,Coding Club,No,1,Moderate,7.5,CS310,3.6,A-,B,C+,A
+62,63,Female,21,Yes,3.9,A,A-,Biology,Regular,Biology Club,Yes,3,High,9.2,BIO401,3.2,B,B,A,B
+63,64,Male,19,No,3.2,B,B+,Psychology,Infrequent,Psychology Club,No,1,Moderate,7.2,PSY201,3.5,B+,B+,B+,B
+64,65,Female,20,No,3.6,B+,B,Sociology,Regular,Sociology Club,Yes,2,High,8.0,SOC401,3.6,A,B+,B+,B+
+65,66,Male,22,Yes,3.8,A-,A,Mathematics,Regular,Math Club,No,2,High,8.6,MATH401,3.5,B,B,B,B
+66,67,Female,19,Yes,3.3,B,C+,English,Infrequent,Literary Magazine,Yes,1,Moderate,7.1,ENG401,3.8,B+,A-,B+,C+
+67,68,Male,21,No,3.7,B+,A-,Business,Regular,Finance Club,Yes,3,High,8.3,BUS401,3.8,A,B+,A-,A-
+68,69,Female,20,No,3.5,B,B+,Chemistry,Regular,Chemistry Club,No,1,High,7.8,CHEM401,3.7,B,B+,B+,B+
+69,70,Male,19,Yes,3.9,A,A-,Economics,Regular,Debate Club,Yes,3,High,9.1,ECO401,3.4,B,B,B,A-
+70,71,Female,20,No,3.6,B+,B,Computer Science,Regular,Coding Club,No,2,High,8.4,CS410,3.7,B,A,B+,A
+71,72,Male,19,No,3.5,B,B+,Psychology,Infrequent,Psychology Club,Yes,1,Moderate,7.6,PSY201,3.6,B,B,B+,B+
+72,73,Female,21,Yes,3.2,B,B+,Sociology,Frequent,Sociology Club,Yes,3,High,7.8,SOC401,3.4,B,B+,B+,C+
+73,74,Male,20,Yes,3.7,B+,A-,Business,Regular,Finance Club,Yes,2,High,8.2,BUS401,3.6,B+,A,A,A-
+74,75,Female,19,Yes,3.9,A,A-,Biology,Regular,Biology Club,No,1,High,9.0,BIO401,3.4,A,B+,A-,A
+75,76,Male,21,Yes,3.3,B,C+,History,Infrequent,History Club,Yes,1,Moderate,7.2,HIS201,3.7,A,A-,B+,B
+76,77,Female,20,No,3.6,B+,B,English,Regular,Literary Magazine,No,2,High,8.1,ENG401,3.5,A,B+,B,B+
+77,78,Male,19,No,3.4,B,B+,Chemistry,Regular,Chemistry Club,No,1,High,7.7,CHEM401,3.7,B+,A,A-,C+
+78,79,Female,21,Yes,3.1,C+,B-,Economics,Frequent,Debate Club,Yes,3,Moderate,7.0,ECO401,3.1,B,B,B+,B+
+79,80,Male,20,Yes,3.8,A-,A,Mathematics,Regular,Math Club,No,2,High,8.5,MATH401,3.4,B+,B,B,A-
+80,81,Female,19,No,3.7,B+,A-,Physics,Regular,Physics Club,Yes,2,High,8.3,PHY401,3.5,B,A-,B+,B
+81,82,Male,20,Yes,3.4,B,B,Computer Science,Regular,Coding Club,No,1,Moderate,7.5,CS310,3.6,B+,B,B,B+
+82,83,Female,21,Yes,3.9,A,A-,Biology,Regular,Biology Club,Yes,3,High,9.2,BIO401,3.4,A,A,B+,B
+83,84,Male,19,No,3.2,B,B+,Psychology,Infrequent,Psychology Club,No,1,Moderate,7.2,PSY201,3.8,B,C+,A-,B+
+84,85,Female,20,No,3.6,B+,B,Sociology,Regular,Sociology Club,Yes,2,High,8.0,SOC401,3.7,B,B,B,A
+85,86,Male,22,Yes,3.8,A-,A,Mathematics,Regular,Math Club,No,2,High,8.6,MATH401,3.5,A,B,A-,B+
+86,87,Female,19,Yes,3.3,B,C+,English,Infrequent,Literary Magazine,Yes,1,Moderate,7.1,ENG401,3.2,B+,B,A,B+
+87,88,Male,21,No,3.7,B+,A-,Business,Regular,Finance Club,Yes,3,High,8.3,BUS401,3.9,B+,B+,B,B
+88,89,Female,20,No,3.5,B,B+,Chemistry,Regular,Chemistry Club,No,1,High,7.8,CHEM401,3.3,B,B,A,A
+89,90,Male,19,Yes,3.9,A,A-,Economics,Regular,Debate Club,No,2,High,8.5,ECO401,3.5,A,C+,A,C+
+90,91,Female,20,No,3.6,B+,B,Computer Science,Regular,Coding Club,No,1,High,8.4,CS410,3.2,B+,B,B,A
+91,92,Male,19,No,3.5,B,B+,Psychology,Infrequent,Psychology Club,Yes,1,Moderate,7.6,PSY201,3.4,B,C+,C+,B
+92,93,Female,21,Yes,3.2,B,B+,Sociology,Frequent,Sociology Club,Yes,3,High,7.8,SOC401,3.8,B+,B,B+,A-
+93,94,Male,20,Yes,3.7,B+,A-,Business,Regular,Finance Club,Yes,2,High,8.2,BUS401,3.4,B+,B+,A,B+
+94,95,Female,19,Yes,3.9,A,A-,Biology,Regular,Biology Club,No,1,High,9.0,BIO401,3.1,A,B+,B+,B
+95,96,Male,21,Yes,3.3,B,C+,History,Infrequent,History Club,Yes,1,Moderate,7.2,HIS201,3.6,B+,A-,B+,B+
+96,97,Female,20,No,3.6,B+,B,English,Regular,Literary Magazine,No,2,High,8.1,ENG401,3.9,B,A,B,B
+97,98,Male,19,No,3.4,B,B+,Chemistry,Regular,Chemistry Club,No,1,High,7.7,CHEM401,3.4,B,A,B+,A-
+98,99,Female,21,Yes,3.1,C+,B-,Economics,Frequent,Debate Club,Yes,3,Moderate,7.0,ECO401,3.8,B,A-,A,B
+99,100,Male,20,Yes,3.8,A-,A,Mathematics,Regular,Math Club,No,2,High,8.6,MATH401,3.9,C+,A,B+,A-
